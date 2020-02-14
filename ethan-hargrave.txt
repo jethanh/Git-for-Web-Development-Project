@@ -7,7 +7,7 @@ https://codepen.io/ethan-hargrave/pen/WNvQeJW?editors=1100
     6. What do we put in the head of our HTML document? <!DOCTYPE HTML> <html>, <body>, <head>
     7. What is an id? A type of attribute which is more specific than a class, but less specific than some others.
     8. What elements can I add an id to? All
-    9. How many times can I use the same id on a page? Once
+    9. How many times can I use the same id on a page? Once.
     10. What is a class? A class is a type of attribute, more specific than universal, less specific than ID.
     11. What elements can I add a class to? All.
     12. How many times can I use the same class on a page? Any amount.
